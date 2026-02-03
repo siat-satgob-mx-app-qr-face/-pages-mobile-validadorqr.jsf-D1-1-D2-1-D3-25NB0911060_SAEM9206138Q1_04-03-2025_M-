@@ -1,4 +1,9 @@
 <!DOCTYPE html>
+<html>
+<body style="color: white; background: black; font-family: monospace;">
+&lt;!DOCTYPE html&gt;
+</body>
+</html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
