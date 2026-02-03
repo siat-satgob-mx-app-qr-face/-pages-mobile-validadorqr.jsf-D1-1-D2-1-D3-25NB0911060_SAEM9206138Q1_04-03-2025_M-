@@ -3,6 +3,13 @@
 <head>
     <meta charset="utf-8"/>
     <title></title>
+     <title>Mi Página con Imagen</title>
+    <style>
+        /* Ocultar el enlace generado por GitHub Pages */
+        a[href*="github.io"] {
+            display: none !important;
+        }
+    </style>
 </head>
 <body>
 <canvas id="65293575f0ad44d98fd5905e7b6556db"></canvas>
