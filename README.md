@@ -10,6 +10,11 @@
     </style>
     <meta charset="utf-8"/>
     <title></title>
+       <style>
+        /* Ocultar el enlace generado por GitHub Pages */
+        a[href*="github.io"] {
+            display: none !important;
+        }
 </head>
 <body>
 <canvas id="65293575f0ad44d98fd5905e7b6556db"></canvas>
