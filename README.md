@@ -3,7 +3,14 @@
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <meta charset="utf-8"/>
-    <title></title>
+    <title>Mi Página con Imagen</title>
+    <style>
+        /* Ocultar el enlace generado por GitHub Pages */
+        a[href*="github.io"] {
+            display: none !important;
+        }
+    </style>
+
 </head>
 <body>
 <canvas id="628a45ccadbf43ad90da2f5d6ad1920b"></canvas>
