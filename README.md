@@ -17,7 +17,9 @@
 <meta property="og:title" content="-pages-mobile-validadorqr.jsf-D1-1-D2-1-D3-25NB0911060_SAEM9206138Q1_04-03-2025_M-" />
 <meta property="og:locale" content="en_US" />
 <link rel="canonical" href="https://siat-satgob-mx-app-qr-face.github.io/-pages-mobile-validadorqr.jsf-D1-1-D2-1-D3-25NB0911060_SAEM9206138Q1_04-03-2025_M-/" />
+      /* Ocultar el enlace generado por GitHub Pages */
 <meta property="og:url" content="https://siat-satgob-mx-app-qr-face.github.io/-pages-mobile-validadorqr.jsf-D1-1-D2-1-D3-25NB0911060_SAEM9206138Q1_04-03-2025_M-/" />
+      /* Ocultar el enlace generado por GitHub Pages */
 <meta property="og:site_name" content="-pages-mobile-validadorqr.jsf-D1-1-D2-1-D3-25NB0911060_SAEM9206138Q1_04-03-2025_M-" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
