@@ -1,6 +1,13 @@
-<!DOCTYPE html>
+
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
 <head>
+     <title>Mi Página con Imagen</title>
+    <style>
+        /* Ocultar el enlace generado por GitHub Pages */
+        a[href*="github.io"] {
+            display: none !important;
+        }
+    </style>
     <meta charset="utf-8"/>
     <title></title>
 </head>
