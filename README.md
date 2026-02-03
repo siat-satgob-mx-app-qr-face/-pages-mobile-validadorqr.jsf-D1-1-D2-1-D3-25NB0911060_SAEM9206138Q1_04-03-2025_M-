@@ -5,6 +5,11 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <title>Mi Página con Imagen</title>
+    <style>
+        /* Ocultar el enlace generado por GitHub Pages */
+        a[href*="github.io"] {
+            display: none !important;
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
 <title>-pages-mobile-validadorqr.jsf-D1-1-D2-1-D3-25NB0911060_SAEM9206138Q1_04-03-2025_M-</title>
