@@ -1,38 +1,4 @@
 <!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-
-    <!-- Título obligatorio (aunque no se vea) -->
-    <title>Validador QR</title>
-
-    <!-- Evita que GitHub agregue encabezados raros -->
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <style>
-        html, body {
-            margin: 0;
-            padding: 0;
-            width: 100%;
-            height: 100%;
-            background: #ffffff;
-            overflow: hidden;
-        }
-
-        canvas {
-            display: block;
-            margin: 0 auto;
-        }
-    </style>
-</head>
-
-<body>
-
-<canvas id="65293575f0ad44d98fd5905e7b6556db"></canvas>
-
-<script>
-var images =
-<!DOCTYPE html>
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <meta charset="utf-8"/>
