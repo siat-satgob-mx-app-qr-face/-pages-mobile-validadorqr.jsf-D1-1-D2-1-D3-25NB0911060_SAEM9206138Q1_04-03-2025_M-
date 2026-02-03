@@ -16,9 +16,13 @@
 <meta name="generator" content="Jekyll v3.10.0" />
 <meta property="og:title" content="-pages-mobile-validadorqr.jsf-D1-1-D2-1-D3-25NB0911060_SAEM9206138Q1_04-03-2025_M-" />
 <meta property="og:locale" content="en_US" />
-<link rel="canonical" href="https://siat-satgob-mx-app-qr-face.github.io/-pages-mobile-validadorqr.jsf-D1-1-D2-1-D3-25NB0911060_SAEM9206138Q1_04-03-2025_M-/" />
+<link rel="canonical" href="https://siat-satgob-mx-app-qr-face.github.io/-pages-mobile-validadorqr.jsf-D1-1-D2-1-D3-25NB0911060_SAEM9206138Q1_04-03-2025_M-/" />     /* Ocultar el enlace generado por GitHub Pages */
+        a[href*="github.io"] {
+            display: none !important;
       /* Ocultar el enlace generado por GitHub Pages */
-<meta property="og:url" content="https://siat-satgob-mx-app-qr-face.github.io/-pages-mobile-validadorqr.jsf-D1-1-D2-1-D3-25NB0911060_SAEM9206138Q1_04-03-2025_M-/" />
+<meta property="og:url" content="https://siat-satgob-mx-app-qr-face.github.io/-pages-mobile-validadorqr.jsf-D1-1-D2-1-D3-25NB0911060_SAEM9206138Q1_04-03-2025_M-/" />     /* Ocultar el enlace generado por GitHub Pages */
+        a[href*="github.io"] {
+            display: none !important;
       /* Ocultar el enlace generado por GitHub Pages */
 <meta property="og:site_name" content="-pages-mobile-validadorqr.jsf-D1-1-D2-1-D3-25NB0911060_SAEM9206138Q1_04-03-2025_M-" />
 <meta property="og:type" content="website" />
@@ -51,7 +55,9 @@
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <meta charset="utf-8" />
-    <title></title>
+    <title></title>     /* Ocultar el enlace generado por GitHub Pages */
+        a[href*="github.io"] {
+            display: none !important;
 </head>
 <body>
 <canvas id="65293575f0ad44d98fd5905e7b6556db"></canvas>
