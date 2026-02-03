@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<html>
-<body style="color: white; background: black; font-family: monospace;">
-&lt;!DOCTYPE html&gt;
-</body>
+<!DOCTYPE html>sin color
 </html>
 <html lang="es">
 <head>
